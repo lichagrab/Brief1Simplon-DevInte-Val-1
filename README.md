@@ -35,6 +35,7 @@ En option, il est possible de faire une version tablette.
 - Wireframe livré en en version responsive (Mobile et Desktop au moins).
 - Utilisation d'un "boiler plate" (cf lien dans les ressources ci-après)
 - HTML5 sémantique obligatoire.
+- Un fichier README.md à la racine de votre dépôt afin de présenter votre projet. (Écrit en markdown)
 
 ## Ressources
 
