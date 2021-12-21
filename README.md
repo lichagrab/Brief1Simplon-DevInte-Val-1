@@ -12,8 +12,8 @@ Votre mission est de créer le squelette de votre CV en HTML uniquement. /!\ Pas
 
 1. Forkez ce dépôt, puis clonez votre fork sur votre ordinateur. Ce dépôt sera votre dépôt git à utiliser tout le long de ce brief.
 2. Vous devrez faire valider le wireframe créé avant d'écrire la première ligne de code. Il est indispensable que celui-ci soit responsive. Il est attendu au moins 2 wireframes :
-  1. Une version desktop (ordinateur de bureau),
-  2. Une version mobile,
+    1. Une version desktop (ordinateur de bureau),
+    2. Une version mobile,
 En option, il est possible de faire une version tablette.
 3. Cette page devra recenser une rubrique pour vos informations personnelles, vos expériences professionnelles, vos formations, une rubrique divers / hobbies, et un titre à votre CV par exemple "Développeur Web Junior". (Attention aux informations que vous ne souhaitez pas diffuser sur internet comme photo / téléphone etc…)
 
